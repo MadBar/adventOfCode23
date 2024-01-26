@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B07DF039-E9C4-4BE3-95D1-21AE12099693"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E16D7D6-5B35-4982-BB1D-1A2C65398F1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AoC23-1a/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E16D7D6-5B35-4982-BB1D-1A2C65398F1F - 94106defdb08f75d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AoC23_1a.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AoC23-1a"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-1a/AoC23-1a/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "3680">
+               </Location>
+               <Location
+                  uuid = "0E16D7D6-5B35-4982-BB1D-1A2C65398F1F - 94106defdb08f75d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AoC23_1a.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AoC23-1a"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-1a/AoC23-1a/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "3808">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F86FE684-6F71-48B3-B543-736F2D6EB52A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AoC23-1a/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F86FE684-6F71-48B3-B543-736F2D6EB52A - 94106defdb08f038"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AoC23_1a.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AoC23-1a"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-1a/AoC23-1a/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "4292">
+               </Location>
+               <Location
+                  uuid = "F86FE684-6F71-48B3-B543-736F2D6EB52A - 94106defdb08f066"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AoC23_1a.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AoC23-1a"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-1a/AoC23-1a/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "4180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "361C58F5-5274-432E-82AD-193BD9DC6219"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AoC23-1a/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
