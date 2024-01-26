@@ -14,311 +14,10 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "219"
-            endingLineNumber = "219"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "CE7F0F8B-108A-44CF-8496-8342B40D90C6"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "370"
-            endingLineNumber = "370"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "CE7F0F8B-108A-44CF-8496-8342B40D90C6 - 21d639809e30a9a1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "trimStringTurnIntoIntArray(lines: Swift.Array&lt;Swift.String&gt;, dropLinesBefore: Swift.Int, dropLinesAfter: Swift.Int) -&gt; Swift.Array&lt;LineData&gt;"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "202"
-                  endingLineNumber = "202"
-                  offsetFromSymbolStart = "968">
-               </Location>
-               <Location
-                  uuid = "CE7F0F8B-108A-44CF-8496-8342B40D90C6 - 21d639809e30a9ef"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "trimStringTurnIntoIntArray(lines: Swift.Array&lt;Swift.String&gt;, dropLinesBefore: Swift.Int, dropLinesAfter: Swift.Int) -&gt; Swift.Array&lt;LineData&gt;"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "204"
-                  endingLineNumber = "204"
-                  offsetFromSymbolStart = "808">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "A62A4F29-5A1B-4A34-9ACF-453B39142033"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "306"
-            endingLineNumber = "306"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "7945340D-C46A-4530-9CFC-53828A7B0EBB"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "314"
-            endingLineNumber = "314"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "EBCCDFED-6D4C-4402-B153-FA416CA3ECC6"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "321"
-            endingLineNumber = "321"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "EBCCDFED-6D4C-4402-B153-FA416CA3ECC6 - 66a89a71bd1f368c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "150"
-                  endingLineNumber = "150"
-                  offsetFromSymbolStart = "416">
-               </Location>
-               <Location
-                  uuid = "EBCCDFED-6D4C-4402-B153-FA416CA3ECC6 - 66a89a71bd1f368c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "150"
-                  endingLineNumber = "150"
-                  offsetFromSymbolStart = "476">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3036A8A0-975A-4544-B868-1BFDADDF4F8C"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "390"
-            endingLineNumber = "390"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "FCDBB721-8B8E-4A62-B850-CAC453B7E251"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "389"
-            endingLineNumber = "389"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "FCDBB721-8B8E-4A62-B850-CAC453B7E251 - 21d639809e30ac24"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "trimStringTurnIntoIntArray(lines: Swift.Array&lt;Swift.String&gt;, dropLinesBefore: Swift.Int, dropLinesAfter: Swift.Int) -&gt; Swift.Array&lt;LineData&gt;"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "229"
-                  endingLineNumber = "229"
-                  offsetFromSymbolStart = "1500">
-               </Location>
-               <Location
-                  uuid = "FCDBB721-8B8E-4A62-B850-CAC453B7E251 - 21d639809e30ac24"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "trimStringTurnIntoIntArray(lines: Swift.Array&lt;Swift.String&gt;, dropLinesBefore: Swift.Int, dropLinesAfter: Swift.Int) -&gt; Swift.Array&lt;LineData&gt;"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "229"
-                  endingLineNumber = "229"
-                  offsetFromSymbolStart = "1024">
-               </Location>
-               <Location
-                  uuid = "FCDBB721-8B8E-4A62-B850-CAC453B7E251 - 900a704524790e46"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "separateOutSeeds(lines: Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "238"
-                  endingLineNumber = "238"
-                  offsetFromSymbolStart = "132">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "F45865BE-A23E-4E9E-9E33-3E4974FF6130"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "327"
-            endingLineNumber = "327"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3CD5C18F-2C48-4D65-B851-6F54C7119847"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "209"
-            endingLineNumber = "209"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "3CD5C18F-2C48-4D65-B851-6F54C7119847 - 66a89a71bd1f2b64"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "126"
-                  endingLineNumber = "126"
-                  offsetFromSymbolStart = "3320">
-               </Location>
-               <Location
-                  uuid = "3CD5C18F-2C48-4D65-B851-6F54C7119847 - 66a89a71bd1f2b45"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "125"
-                  endingLineNumber = "125"
-                  offsetFromSymbolStart = "2884">
-               </Location>
-               <Location
-                  uuid = "3CD5C18F-2C48-4D65-B851-6F54C7119847 - 66a89a71bd1f2b64"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "126"
-                  endingLineNumber = "126"
-                  offsetFromSymbolStart = "2884">
-               </Location>
-               <Location
-                  uuid = "3CD5C18F-2C48-4D65-B851-6F54C7119847 - 66a89a71bd1f2b45"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "125"
-                  endingLineNumber = "125"
-                  offsetFromSymbolStart = "1556">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -331,8 +30,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "213"
-            endingLineNumber = "213"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -402,22 +101,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "00B12341-2BF6-47FC-B130-F1331A9BC9E2"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "121"
-            endingLineNumber = "121"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "6144CCC2-9242-4DFC-8C0C-DCE0A653E17F"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -425,87 +108,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "221"
-            endingLineNumber = "221"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "6A2FA20B-0499-439B-AE72-A551FAB65195"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "411"
-            endingLineNumber = "411"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "6A2FA20B-0499-439B-AE72-A551FAB65195 - 21d639809e309027"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "trimStringTurnIntoIntArray(lines: Swift.Array&lt;Swift.String&gt;, dropLinesBefore: Swift.Int, dropLinesAfter: Swift.Int) -&gt; Swift.Array&lt;LineData&gt;"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "260"
-                  endingLineNumber = "260"
-                  offsetFromSymbolStart = "776">
-               </Location>
-               <Location
-                  uuid = "6A2FA20B-0499-439B-AE72-A551FAB65195 - 797172d3bbe1da5e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Optional&lt;Swift.Int&gt; in trimStringTurnIntoIntArray(lines: Swift.Array&lt;Swift.String&gt;, dropLinesBefore: Swift.Int, dropLinesAfter: Swift.Int) -&gt; Swift.Array&lt;LineData&gt;"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "260"
-                  endingLineNumber = "260"
-                  offsetFromSymbolStart = "56">
-               </Location>
-               <Location
-                  uuid = "6A2FA20B-0499-439B-AE72-A551FAB65195 - 21d639809e309027"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "trimStringTurnIntoIntArray(lines: Swift.Array&lt;Swift.String&gt;, dropLinesBefore: Swift.Int, dropLinesAfter: Swift.Int) -&gt; Swift.Array&lt;LineData&gt;"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "260"
-                  endingLineNumber = "260"
-                  offsetFromSymbolStart = "320">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3CBA655C-550F-4C3A-8287-A5CE9784FB55"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "412"
-            endingLineNumber = "412"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -520,326 +124,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "118"
-            endingLineNumber = "118"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "8977A546-1702-41A8-9F6D-F76B1DDEE125"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "119"
-            endingLineNumber = "119"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "A8260181-49DF-449C-B2D6-C4819084E6F2"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "139"
-            endingLineNumber = "139"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "A8260181-49DF-449C-B2D6-C4819084E6F2 - 66a89a71bd1f2935"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "109"
-                  endingLineNumber = "109"
-                  offsetFromSymbolStart = "300">
-               </Location>
-               <Location
-                  uuid = "A8260181-49DF-449C-B2D6-C4819084E6F2 - 66a89a71bd1f2954"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "110"
-                  endingLineNumber = "110"
-                  offsetFromSymbolStart = "308">
-               </Location>
-               <Location
-                  uuid = "A8260181-49DF-449C-B2D6-C4819084E6F2 - 66a89a71bd1f2954"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "110"
-                  endingLineNumber = "110"
-                  offsetFromSymbolStart = "304">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "01984A4A-D4C3-47B3-AA2B-15ABBE32ECDA"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "145"
-            endingLineNumber = "145"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "01984A4A-D4C3-47B3-AA2B-15ABBE32ECDA - 66a89a71bd1f2ac9"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "121"
-                  endingLineNumber = "121"
-                  offsetFromSymbolStart = "508">
-               </Location>
-               <Location
-                  uuid = "01984A4A-D4C3-47B3-AA2B-15ABBE32ECDA - 66a89a71bd1f2a2e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "116"
-                  endingLineNumber = "116"
-                  offsetFromSymbolStart = "524">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B8F55100-7565-4BF4-8CBE-678077166237"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "140"
-            endingLineNumber = "140"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "B8F55100-7565-4BF4-8CBE-678077166237 - 66a89a71bd1f2973"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "111"
-                  endingLineNumber = "111"
-                  offsetFromSymbolStart = "372">
-               </Location>
-               <Location
-                  uuid = "B8F55100-7565-4BF4-8CBE-678077166237 - 66a89a71bd1f2973"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "111"
-                  endingLineNumber = "111"
-                  offsetFromSymbolStart = "344">
-               </Location>
-               <Location
-                  uuid = "B8F55100-7565-4BF4-8CBE-678077166237 - 66a89a71bd1f2973"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "111"
-                  endingLineNumber = "111"
-                  offsetFromSymbolStart = "340">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "739FDB30-22DF-4DEF-9091-382A7340C8A4"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "429"
-            endingLineNumber = "429"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "23005011-C874-4B8C-8529-84596A765649"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "144"
-            endingLineNumber = "144"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "23005011-C874-4B8C-8529-84596A765649 - 66a89a71bd1f2a0f"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "115"
-                  endingLineNumber = "115"
-                  offsetFromSymbolStart = "488">
-               </Location>
-               <Location
-                  uuid = "23005011-C874-4B8C-8529-84596A765649 - 66a89a71bd1f2a0f"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "115"
-                  endingLineNumber = "115"
-                  offsetFromSymbolStart = "484">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "DA7104EA-AD1A-4FC5-851F-CFEF88E7DC4D"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "143"
-            endingLineNumber = "143"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "DA7104EA-AD1A-4FC5-851F-CFEF88E7DC4D - 66a89a71bd1f29d0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "114"
-                  endingLineNumber = "114"
-                  offsetFromSymbolStart = "452">
-               </Location>
-               <Location
-                  uuid = "DA7104EA-AD1A-4FC5-851F-CFEF88E7DC4D - 66a89a71bd1f29d0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "114"
-                  endingLineNumber = "114"
-                  offsetFromSymbolStart = "448">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "A9FA7CFE-5562-47DB-94FF-EC6E220838FC"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "141"
-            endingLineNumber = "141"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -854,8 +140,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "194"
-            endingLineNumber = "194"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -870,8 +156,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "214"
-            endingLineNumber = "214"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -911,102 +197,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "4749EC03-BCBB-4F9E-9C8C-0112CDCF8081"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "333"
-            endingLineNumber = "333"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E1927690-0D17-4515-A4AE-AEB3DE066DB9"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "325"
-            endingLineNumber = "325"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "15702687-9115-48C2-9A73-78EAD0D7FF9F"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "334"
-            endingLineNumber = "334"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "4D0BB96D-6FAB-4D4B-94D6-532EDEB91A01"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "313"
-            endingLineNumber = "313"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3F5F5CBD-DE74-4C05-A66F-D33FFDFBACC7"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "312"
-            endingLineNumber = "312"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "DD6E6704-A3A2-456C-A9AD-1D10C1251B09"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "354"
-            endingLineNumber = "354"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "93E14F14-BDA8-43D6-994F-43B2E9254E35"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -1014,8 +204,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "504"
-            endingLineNumber = "504"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
             landmarkName = "trimStringTurnIntoIntArray(lines:dropLinesBefore:dropLinesAfter:)"
             landmarkType = "9">
             <Locations>
@@ -1062,8 +252,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "156"
-            endingLineNumber = "156"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1110,8 +300,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "157"
-            endingLineNumber = "157"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1211,38 +401,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "D8B6F148-F5B3-4416-8A94-9F8CF8946FCA"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "294"
-            endingLineNumber = "294"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "7FBB0D65-3985-4B6E-97C4-2AE2DA9FEF5F"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "295"
-            endingLineNumber = "295"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "899AF103-B217-4138-8904-8AF4052D7C04"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -1250,8 +408,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "238"
-            endingLineNumber = "238"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1358,8 +516,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "235"
-            endingLineNumber = "235"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1421,8 +579,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "227"
-            endingLineNumber = "227"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1484,8 +642,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "598"
-            endingLineNumber = "598"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
             landmarkName = "findDestinationNr(_:_:)"
             landmarkType = "9">
             <Locations>
@@ -1532,8 +690,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "602"
-            endingLineNumber = "602"
+            startingLineNumber = "255"
+            endingLineNumber = "255"
             landmarkName = "findDestinationNr(_:_:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -1548,8 +706,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "237"
-            endingLineNumber = "237"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1564,8 +722,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "236"
-            endingLineNumber = "236"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1580,8 +738,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "247"
-            endingLineNumber = "247"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1628,8 +786,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "250"
-            endingLineNumber = "250"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1691,8 +849,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "279"
-            endingLineNumber = "279"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1739,8 +897,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "283"
-            endingLineNumber = "283"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1780,84 +938,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "49B361D5-78DF-4627-B783-8A0F9BC8CFEA"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AoC23-5a/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "425"
-            endingLineNumber = "425"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "49B361D5-78DF-4627-B783-8A0F9BC8CFEA - 66a89a71bd1f1ce2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "448"
-                  endingLineNumber = "448"
-                  offsetFromSymbolStart = "8796">
-               </Location>
-               <Location
-                  uuid = "49B361D5-78DF-4627-B783-8A0F9BC8CFEA - 66a89a71bd1f1f30"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "466"
-                  endingLineNumber = "466"
-                  offsetFromSymbolStart = "8792">
-               </Location>
-               <Location
-                  uuid = "49B361D5-78DF-4627-B783-8A0F9BC8CFEA - 66a89a71bd1f1f30"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "466"
-                  endingLineNumber = "466"
-                  offsetFromSymbolStart = "8868">
-               </Location>
-               <Location
-                  uuid = "49B361D5-78DF-4627-B783-8A0F9BC8CFEA - 66a89a71bd1f1f30"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AoC23_5a.ViewController.viewDidLoad() -&gt; ()"
-                  moduleName = "AoC23-5a"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/madeleineb/src/adventOfCode23/AoC23-5a/AoC23-5a/AoC23-5a/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "466"
-                  endingLineNumber = "466"
-                  offsetFromSymbolStart = "9024">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "5B56DCB4-BF9E-47DB-96FD-F58CA715665D"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -1865,8 +945,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "255"
-            endingLineNumber = "255"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1913,8 +993,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "218"
-            endingLineNumber = "218"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1929,8 +1009,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "150"
-            endingLineNumber = "150"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1945,8 +1025,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "180"
-            endingLineNumber = "180"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -2023,8 +1103,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "528"
-            endingLineNumber = "528"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
             landmarkName = "trimStringTurnIntoIntArray(lines:dropLinesBefore:dropLinesAfter:)"
             landmarkType = "9">
             <Locations>
@@ -2071,8 +1151,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "159"
-            endingLineNumber = "159"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -2119,8 +1199,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "518"
-            endingLineNumber = "518"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
             landmarkName = "trimStringTurnIntoIntArray(lines:dropLinesBefore:dropLinesAfter:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -2135,8 +1215,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "520"
-            endingLineNumber = "520"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
             landmarkName = "trimStringTurnIntoIntArray(lines:dropLinesBefore:dropLinesAfter:)"
             landmarkType = "9">
             <Locations>
@@ -2183,8 +1263,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "160"
-            endingLineNumber = "160"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2199,8 +1279,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "161"
-            endingLineNumber = "161"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2215,8 +1295,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "162"
-            endingLineNumber = "162"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2231,8 +1311,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "163"
-            endingLineNumber = "163"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2247,8 +1327,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "165"
-            endingLineNumber = "165"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2263,8 +1343,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "164"
-            endingLineNumber = "164"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2279,8 +1359,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "534"
-            endingLineNumber = "534"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
             landmarkName = "trimStringTurnIntoIntArray(lines:dropLinesBefore:dropLinesAfter:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -2295,8 +1375,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "524"
-            endingLineNumber = "524"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
             landmarkName = "trimStringTurnIntoIntArray(lines:dropLinesBefore:dropLinesAfter:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -2311,8 +1391,8 @@
             filePath = "AoC23-5a/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "526"
-            endingLineNumber = "526"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
             landmarkName = "trimStringTurnIntoIntArray(lines:dropLinesBefore:dropLinesAfter:)"
             landmarkType = "9">
          </BreakpointContent>
